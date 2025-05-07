@@ -37,8 +37,10 @@ We hope HierSSL can serve as a flexible and powerful baseline to support further
 For more technical details, please refer to our paper available at [IEEE Xplore](https://ieeexplore.ieee.org/document/10966034).
 
 
-![HierSSL Framework Overview](./img/HierSSL.png)
-*Figure: Overview of the proposed HierSSL framework.*
+<p align="center">
+  <img src="./img/HierSSL.png" alt="HierSSL Framework Overview" width="50%">
+</p>
+<p align="center"><em>Figure: Overview of the proposed HierSSL framework.</em></p>
 
 ## Code Running
 
