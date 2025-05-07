@@ -73,4 +73,4 @@ Besides, you can modify 'network.py' to establish a variant of HierSSL and 'mode
 
 ## Acknowledgements
 
-We sincerely thank [SsGood/MMGL: Multi-modal Graph learning for Disease Prediction (IEEE Trans. on Medical imaging, TMI2022)](https://github.com/SsGood/MMGL)for their open-source project, which provided essential code support and inspiration for this work.
+We sincerely thank [SsGood/MMGL: Multi-modal Graph learning for Disease Prediction (IEEE Trans. on Medical imaging, TMI2022)](https://github.com/SsGood/MMGL) for their open-source project, which provided essential code support and inspiration for this work.
