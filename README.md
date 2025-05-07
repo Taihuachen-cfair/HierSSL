@@ -53,7 +53,7 @@ conda env create -f environment.yml
 conda activate HierSSL
 ```
 
-### Step 1: Data prprocessing
+### Step 1: Data preprocessing
 
 -  All the preprocessed data are provided in  ./data/{dataset}
 - （Opt）If you want to start processing the data from scratch，runn the code of data preprocessing in ./data/{dataset} to preprocess the raw data to standard data as the input of HierSSL.
