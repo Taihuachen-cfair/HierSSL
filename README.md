@@ -18,7 +18,7 @@
 
 ## Introduction
 
-We present **HierSSL**, a novel end-to-end **Hierarchical Self-supervised Learning** framework for disease prediction with multi-modal biomedical data. This repository provides the official PyTorch implementation of HierSSL, including training scripts, pretrained models, and evaluation utilities.
+We present **HierSSL**, a novel end-to-end **Hierarchical Self-supervised Learning** framework for disease prediction with multi-modal biomedical data. This repository provides the official PyTorch implementation of HierSSL, including training scripts, evaluation utilities, and reported model evaluation results. 
 
 In the healthcare domain, multi-modal data collected from diverse sources—such as MRI, CT, blood biomarkers, and clinical reports—offer a comprehensive view of a patient’s physiological and pathological state. Effectively leveraging this heterogeneous information is critical for building robust Computer-Aided Diagnosis (CAD) systems. While recent Graph Neural Network (GNN)-based methods have achieved notable performance by modeling patient similarities over population graphs, they often suffer from noise interference, low-quality modality contributions, and over-smoothed graph structures due to inappropriate constraints.
 
