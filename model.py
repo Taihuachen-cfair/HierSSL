@@ -159,7 +159,7 @@ class EvalHelper:
             loss.backward()
 
             self.optimizer_MF.step()
-            # trick, 虽然无法解释，但效果好
+
             if self.hyperpm.dataname == "ABIDE":
                 self.optimizer_GC.step()
                 self.optimizer_MP.step()
